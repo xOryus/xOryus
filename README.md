@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
+### My name is Henrique and my nickname is "xOryus"!
 
-<!--
-**xOryus/xOryus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! --
+**home/xOryus** is a special resource ✨ ✨ because its `README.md`
 
-Here are some ideas to get you started:
+- 🔭 I am currently working on Personal Projects.
+- 🌱 I am currently updating `Professional Pentesting`
+- 👯 I still haven't found a companion for DUAL WORK
+- 🤔 I'm helping with pentesting
+- 💬 Open source human
+- 📫 How to contact me: `gabrielhenrique310@hotmail.com`
+- ⚡ Fun fact: I do scripting and penetration testing using my VAPE xD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> done
