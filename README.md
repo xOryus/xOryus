@@ -59,10 +59,11 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ### 🏅 Achievements & Badges:
 
-![Stars](https://img.shields.io/github/stars/xoryus?color=gold&style=flat-square)
-![Forks](https://img.shields.io/github/forks/xoryus?color=blue&style=flat-square)
-![Commits](https://img.shields.io/github/commit-activity/y/xoryus?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/xoryus?color=green&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/xOryus?color=gold&style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/xOryus/xOryus?color=blue&style=flat-square)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/xOryus/xOryus?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/xOryus/xOryus?color=green&style=flat-square)
+
 
 ---
 
