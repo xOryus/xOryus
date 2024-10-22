@@ -32,7 +32,7 @@
 
 Here are some of my notable contributions and projects that I'm proud of:
 
-- **[NFCMark3](https://github.com/xoryus/NFCMark3)**: A roject for NFC testing and management for Flipper Zero, has become an official community app 🥇
+- **[NFCMark3](https://github.com/xoryus/NFCMark3)**: A Project for NFC testing and management for Flipper Zero, has become an official community app🥇
 - **[CortexBomber](https://github.com/xoryus/CortexBomber)**: A fast, discreet, and efficient SMS bomber script developed in Python 3.
 - **[CursosGratis](https://github.com/xoryus/CursosGratis)**: Collection of free educational resources, tools and certifications.
 - **[NexusSwipper](https://github.com/xoryus/NexusSwipper)**: A Shell script designed to scan and identify active links and hosts.
