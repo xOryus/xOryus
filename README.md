@@ -52,7 +52,8 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ### 🐍 Snake Animation:
 
-<img src="https://raw.githubusercontent.com/xoryus/xoryus/output/snake.svg" alt="Snake animation" />
+![Snake dark animation](https://github.com/xOryus/xOryus/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 ---
 
