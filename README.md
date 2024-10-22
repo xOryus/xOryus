@@ -81,5 +81,6 @@ Feel free to reach out if you're interested in working on exciting pentesting pr
 Deep within this repository lies a secret. Your mission, if you choose to accept it, is to decode the following message and prove yourself worthy.
 
 ```plaintext
--- .. .-.. .... .- .. .-. ..- ... / ... -.-. .-. .. .--. - . -..
+-.- -.. ..-. -. / .-- -.- .... / ... --- -.. --.- .... .--
+
 
