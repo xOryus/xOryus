@@ -76,5 +76,10 @@ Feel free to reach out if you're interested in working on exciting pentesting pr
 
 ---
 
-### 💡 Fun Fact:
-I once wrote a pentesting script so efficient that I had to rename it "Skynet"... but don’t worry, it’s not that self-aware... yet. 😅
+```md
+### 🕵️‍♂️ Hacker Challenge: Can you crack the code? 🔐
+
+Deep within this repository lies a secret. Your mission, if you choose to accept it, is to decode the following message and prove yourself worthy.
+
+```diff
+- .--. .-.. --- -.- -.. .-.. ..- -..- ... / ...- ..-. ..- .-.. ... .-- .... --.
