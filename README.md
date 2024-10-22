@@ -22,7 +22,6 @@
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Kali_Linux-%23ADFF2F.svg?style=for-the-badge&logo=kali-linux&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23FF4500.svg?style=for-the-badge&logo=metasploit&logoColor=white)
