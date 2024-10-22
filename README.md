@@ -50,7 +50,7 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ---
 
-### 🐍 Snake Animation:
+### 🐍 Snake Activity:
 
 ![Snake dark animation](https://github.com/xOryus/xOryus/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
@@ -59,10 +59,10 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ### 🏅 Achievements & Badges:
 
-![GitHub stars](https://img.shields.io/github/stars/xOryus?color=gold&style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/xOryus/xOryus?color=blue&style=flat-square)
-![GitHub commits](https://img.shields.io/github/commit-activity/y/xOryus/xOryus?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/xOryus/xOryus?color=green&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/xOryus?color=FFD700&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/xOryus/xOryus?color=blue&style=for-the-badge)
+![GitHub commits](https://img.shields.io/github/commit-activity/y/xOryus/xOryus?color=brightgreen&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/xOryus/xOryus?color=green&style=for-the-badge)
 
 
 ---
