@@ -1,7 +1,3 @@
-> Welcome to my hacking lair...
-> Loading...
-> Access granted. You are now viewing "xOryus" repository. Please proceed with caution.
-
 ### 🚀 About Me
 
 - 🔭 I am currently working on **Personal Projects**, such as **NFCMark3** and **Pentesting Automation Tools**.
