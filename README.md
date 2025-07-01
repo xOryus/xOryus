@@ -68,6 +68,10 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 ![GitHub commits](https://img.shields.io/github/commit-activity/y/xOryus/xOryus?color=brightgreen&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/xOryus/xOryus?color=green&style=for-the-badge)
 
+---
+
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xoryus&bg_color=000000&color=ffffff&line=4fb560&point=e0e0e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
