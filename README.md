@@ -1,24 +1,27 @@
-### 🚀 About Me
+### <img src="https://cdn-icons-png.flaticon.com/512/10373/10373041.png" width="20" /> About Me
 
-- 🔭 I am currently working on **Personal Projects**, such as **NFCMark3** and **Pentesting Automation Tools**.
-- 🌱 Constantly updating my knowledge on `Professional Pentesting` and exploring **Red Team** strategies.
-- 👯 I'm searching for a **DUAL WORK** companion to collaborate on exciting pentesting projects.
-- 🤔 Actively involved in pentesting/programming and always looking to automate processes.
-- 💬 **Open Source Enthusiast**: Passionate about contributing to the open-source community!
-
-### 🎯 Goals for 2024:
-- 📚 Deepen my understanding of **Red Team** techniques and adversarial strategies.
-- 🛠️ Continue building more **open-source security tools**.
-- 🌐 Collaborate on major **open-source security projects** that impact the community.
+- <img src="https://img.icons8.com/color/48/flash-on--v1.png" width="18"/> Working on personal cybersecurity projects like **NFCMark3** and **Pentesting Automation Tools**
+- <img src="https://img.icons8.com/color/48/brain.png" width="18"/> Continuously learning and improving in `Professional Pentesting` and **Red Team strategies**
+- <img src="https://img.icons8.com/color/48/networking-manager.png" width="18"/> Searching for a committed **DUAL WORK** partner to collaborate on security projects
+- <img src="https://img.icons8.com/color/48/robot-2.png" width="18"/> Passionate about automating offensive security processes
+- <img src="https://img.icons8.com/color/48/source-code.png" width="18"/> Open-source enthusiast, always contributing and learning through the community
 
 ---
 
-### 📫 How to Reach Me:
+### <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="20"/> Goals for 2026
+
+- <img src="https://cdn-icons-png.flaticon.com/512/3039/3039430.png" width="16"/> Master advanced **Red Team techniques** and realistic adversary simulation  
+- <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="16"/> Build and release powerful **open-source security tools**  
+- <img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="16"/> Collaborate on **community-driven security projects** with real-world impact
+
+---
+
+### <img src="https://img.icons8.com/color/48/message-squared.png" width="20"/> How to Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielhrqr/)
 
 ---
 
-### 🛠️ Technologies & Tools:
+### <img src="https://img.icons8.com/color/48/settings--v1.png" width="20"/> Technologies & Tools:
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
@@ -32,7 +35,7 @@
 
 ---
 
-### 🔥 Featured Projects:
+### <img src="https://img.icons8.com/color/48/fire-element.png" width="20"/> Featured Projects:
 
 Here are some of my notable contributions and projects that I'm proud of:
 
@@ -45,7 +48,7 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ---
 
-### 📊 My GitHub Stats:
+### <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="20"/> My GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xoryus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -61,7 +64,7 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ---
 
-### 🏅 Achievements & Badges:
+### <img src="https://img.icons8.com/color/48/prize.png" width="20"/> Achievements & Badges:
 
 ![GitHub stars](https://img.shields.io/github/stars/xOryus?color=FFD700&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/xOryus/xOryus?color=blue&style=for-the-badge)
@@ -75,12 +78,12 @@ Explore all my repositories for more awesome tools and scripts that I've built!
 
 ---
 
-### 🌟 Want to Collaborate?
+### <img src="https://img.icons8.com/color/48/handshake.png" width="20"/> Want to Collaborate?
 Feel free to reach out if you're interested in working on exciting pentesting projects, DevOps automation, or open-source tools! I'm always open to new collaborations. Let's build something great together!
 
 ---
 
-### 🕵️‍♂️ Hacker Challenge: Can you crack the code? 🔐
+### 👁️ Hacker Challenge: Can you crack the code? <img src="https://img.icons8.com/color/48/lock--v1.png" width="20"/>
 
 Deep within this repository lies a secret. Your mission, if you choose to accept it, is to decode the following message and prove yourself worthy.
 
