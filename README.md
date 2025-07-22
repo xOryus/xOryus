@@ -21,16 +21,26 @@
 
 ---
 
-### <img src="https://img.icons8.com/color/48/settings--v1.png" width="20"/> Technologies & Tools:
+### <img src="https://img.icons8.com/color/48/settings--v1.png" width="20"/> Technologies & Skills:
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Kali_Linux-%23ADFF2F.svg?style=for-the-badge&logo=kali-linux&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23FF4500.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Shell](https://img.shields.io/badge/Shell_Script-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Pentesting](https://img.shields.io/badge/Kali_Linux-%23ADFF2F.svg?style=for-the-badge&logo=kali-linux&logoColor=black)  
+![Metasploit](https://img.shields.io/badge/Metasploit-%23FF4500.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 
 ---
